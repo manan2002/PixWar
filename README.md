@@ -1,5 +1,7 @@
 # Pixwar
 ![Demo GIF](demo-pix.gif)
+
+
 It's an arcade style fixed base shooting game made in Pygame with ❤️
 
 ## How to run?
